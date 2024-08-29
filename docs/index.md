@@ -11,5 +11,5 @@ hero:
       link: /introducao
     - theme: alt
       text: Veja no GitHub
-      link: https://github.com/GustavoPalaviciniSotili/vite-gustavo
+      link: https://github.com/GustavoPalaviciniSotili/PneuExpress
 ---
